@@ -1,0 +1,45 @@
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb

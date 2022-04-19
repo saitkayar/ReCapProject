@@ -1,0 +1,36 @@
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\ReCapProject\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\LENOVO\Desktop\ÇALIŞMALAR\kENDİ çALIŞMALARIM\ajax\engin\RentACar\ReCapProject\Core\obj\Debug\net5.0\Core.pdb
