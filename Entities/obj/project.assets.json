@@ -7671,19 +7671,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\303SAIT_AKSAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\ÇALIŞMALAR\\kENDİ çALIŞMALARIM\\ajax\\engin\\RentACar\\ReCapProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\303SAIT_AKSAM\\Desktop\\yeni hoca\\burayabak\\ReCapProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\ÇALIŞMALAR\\kENDİ çALIŞMALARIM\\ajax\\engin\\RentACar\\ReCapProject\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\ÇALIŞMALAR\\kENDİ çALIŞMALARIM\\ajax\\engin\\RentACar\\ReCapProject\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\303SAIT_AKSAM\\Desktop\\yeni hoca\\burayabak\\ReCapProject\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\303SAIT_AKSAM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\303SAIT_AKSAM\\Desktop\\yeni hoca\\burayabak\\ReCapProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\303SAIT_AKSAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7697,8 +7697,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\Desktop\\ÇALIŞMALAR\\kENDİ çALIŞMALARIM\\ajax\\engin\\RentACar\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\Desktop\\ÇALIŞMALAR\\kENDİ çALIŞMALARIM\\ajax\\engin\\RentACar\\ReCapProject\\Core\\Core.csproj"
+            "C:\\Users\\303SAIT_AKSAM\\Desktop\\yeni hoca\\burayabak\\ReCapProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\303SAIT_AKSAM\\Desktop\\yeni hoca\\burayabak\\ReCapProject\\Core\\Core.csproj"
             }
           }
         }
@@ -7727,7 +7727,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

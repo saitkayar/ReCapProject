@@ -7,11 +7,10 @@ using System.Threading.Tasks;
 
 namespace Core.Utilities.Helpers.FileHelper
 {
- public   interface IFileHelper
+    public interface IFileHelper
     {
-        string Add(IFormFile file);
-        string Update(IFormFile file, string oldFilePath);
+        string Upload(IFormFile file, string root);
         void Delete(string filePath);
-
+        string Update(IFormFile file, string filePath, string root);
     }
 }
