@@ -7,7 +7,7 @@ namespace Business.ValidationsRules.FluentValidation
     {
         public CustomerValidator()
         {
-
+            RuleFor(p => p.UserId).NotEmpty();
         }
     }
 

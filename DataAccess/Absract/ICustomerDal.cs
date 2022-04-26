@@ -10,5 +10,6 @@ namespace DataAccess.Absract
 {
    public interface ICustomerDal:IEntityRepository<Customer>
     {
+      
     }
 }

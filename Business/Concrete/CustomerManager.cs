@@ -1,16 +1,21 @@
-﻿using Business.Abstract;
+﻿using System;
+using System.Collections.Generic;
+using Business.Abstract;
+using Business.Constants;
+using Business.ValidationRules.FluentValidation;
 using Business.ValidationsRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
 using Core.Utilities;
+using Core.Utilities.Results;
 using DataAccess.Absract;
 using Entities.Concrete;
-using System.Collections.Generic;
+using Entities.DTOs;
 
 namespace Business.Concrete
 {
     public class CustomerManager : ICustomerService
     {
-        ICustomerDal _customerDal;
+        private ICustomerDal _customerDal;
 
         public CustomerManager(ICustomerDal customerDal)
         {
@@ -21,29 +26,33 @@ namespace Business.Concrete
         public IResult Add(Customer customer)
         {
             _customerDal.Add(customer);
-            return new SuccessResult();
+            return new SuccessResult(Messages.CustomerAdded);
         }
 
         public IResult Delete(Customer customer)
         {
             _customerDal.Delete(customer);
-            return new SuccessResult();
-        }
-
-        public IDataResult<Customer> Get(int Id)
-        {
-            return new SuccessDataResult<Customer>(_customerDal.Get(c => c.Id == Id));
+            return new SuccessResult(Messages.CustomerDeleted);
         }
 
         public IDataResult<List<Customer>> GetAll()
         {
-            return new SuccessDataResult<List<Customer>>(_customerDal.GetAll());
+            return new SuccessDataResult<List<Customer>>(_customerDal.GetAll(), Messages.CustomersListed);
         }
+
+        public IDataResult<Customer> Get(int customerId)
+        {
+            return new SuccessDataResult<Customer>(_customerDal.Get(b => b.Id == customerId), Messages.CustomerListed);
+        }
+
+       
 
         public IResult Update(Customer customer)
         {
             _customerDal.Update(customer);
-            return new SuccessResult();
+            return new SuccessResult(Messages.CustomerUpdated);
         }
+
+      
     }
 }
