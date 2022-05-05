@@ -38,7 +38,7 @@ namespace Business.Concrete
         }
 
         [SecuredOperation("car.add, admin")]
-        [CacheRemoveAspect("ICarService.Get")]
+        //[CacheRemoveAspect("ICarService.Get")]
         [ValidationAspect(typeof(CarValidator), Priority = 1)]
         public IResult Add(Car car)
         {
@@ -53,10 +53,10 @@ namespace Business.Concrete
             return new SuccessResult(Messages.BrandDeleted);
         }
 
-        [PerformanceAspect(5)]
-        //[SecuredOperation("car.list, Admin")]
+        //[PerformanceAspect(5)]
+        ////[SecuredOperation("car.list, Admin")]
 
-        [CacheAspect(duration: 10)]
+        //[CacheAspect(duration: 10)]
         public IDataResult<List<Car>> GetAll()
         {
             //if (DateTime.Now.Hour >= 15 && DateTime.Now.Hour < 16)

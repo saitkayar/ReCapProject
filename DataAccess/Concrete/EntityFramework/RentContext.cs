@@ -13,7 +13,8 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-3TDJHFS\MSSQLSERVER123;Database=RentDb;Trusted_Connection=true");
+            //optionsBuilder.UseSqlServer(@"Server=DESKTOP-3TDJHFS\MSSQLSERVER123;Database=RentDb;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Server=127.0.0.1;Database=RentDb;Trusted_Connection=true");
 
         }
         public DbSet<Brand> Brands { get; set; }
